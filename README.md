@@ -1,1 +1,3 @@
-# como-comprar-wazirx-wrx
+[**Cómo comprar WazirX (WRX)**](https://topcryptoguide.com/como-comprar-wazirx-wrx/)
+
+Este artículo explica **cómo comprar WazirX (WRX)**, el token nativo del exchange WazirX, que ofrece beneficios como **descuentos en tarifas de trading y participación en programas del ecosistema**. Para adquirir WRX normalmente debes **crear una cuenta en un exchange que lo liste** (como Binance o el propio WazirX), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia bancaria, tarjeta o stablecoins como USDT antes de ejecutar la compra desde el mercado spot. Algunos exchanges también permiten **comprar WRX con tarjeta de crédito/débito** según disponibilidad. Tras la compra, se recomienda **mover los tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
